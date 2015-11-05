@@ -1,0 +1,14 @@
+{
+  "name": "frodo-api-training",
+  "version": "1.0.0",
+  "description": "Sample scripts for Kuali Days Student Team Developer Training 2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Kuali Student Team",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "axios": "0.7.0"
+  }
+}
